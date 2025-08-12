@@ -6,7 +6,7 @@
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)](CONTRIBUTING.md)
 
 
-SwissText is a versatile NLP toolkit that brings together multiple natural language processing capabilities in one place.  
+SwissText is a versatile NLP toolkit that brings together multiple natural language processing capabilities in one place.
 It’s designed to be modular, extensible, and easy to use — perfect for both experimentation and production.
 
 ## ✨ Features
@@ -18,7 +18,7 @@ Currently, SwissText includes:
 - **Text Summarization** – Generate concise summaries of longer texts.
 - **Embedding Visualization** – Visualize text embeddings in 2D/3D for analysis.
 
-…and more to come!  
+…and more to come!
 We encourage contributions to add new tools, models, and visualizations.
 
 ## 🚀 Getting Started
