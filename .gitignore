@@ -1,0 +1,17 @@
+# Files
+artifacts.py
+.env
+settings.json
+.pre-commit-config.yaml
+pyproject.toml
+
+#Folders
+data/
+lib/
+.nlp/
+.vscode/
+.idea/
+src/config files
+notebooks/
+output_dir/
+src/__pycache__/
